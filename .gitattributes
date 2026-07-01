@@ -1,3 +1,4 @@
 boost-cache-cpp-std14-release.tar.gz filter=lfs diff=lfs merge=lfs -text
 boost-cache-cpp-std20-release.tgz filter=lfs diff=lfs merge=lfs -text
 boost-cache-cpp-std20-debug.tgz filter=lfs diff=lfs merge=lfs -text
+boost-cache-cpp-std20-msvc-193.tgz filter=lfs diff=lfs merge=lfs -text
